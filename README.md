@@ -1,10 +1,10 @@
 ## Overview
 
-This repo contains MATLAB scripts to perform APOB rare variant analysis in whole exome sequencing (WES) data from the UK Biobank.
+This repository contains MATLAB scripts for performing APOB rare variant analysis on whole exome sequencing (WES) data from the UK Biobank.
 
 ---
 
 > [!NOTE]
-> You need an existing access to UK Biobank DNAnexus Research Analysis Platform.
-> The scripts in the repo require [MAGE toolbox](https://github.com/Ojami/MAGE) on UKB-RAP. 
+> You must have existing access to the UK Biobank DNAnexus Research Analysis Platform (UKB-RAP).
+> The scripts in this repository require the [MAGE toolbox](https://github.com/Ojami/MAGE) on UKB-RAP. 
 
